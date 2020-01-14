@@ -81,7 +81,7 @@ if (!isset($_SESSION['username'])) {
             </div>
         </div>
 
-        <div class="loginbox" style="background-image: url(image/HD-2560x1600-Wallpapers-Backgrounds-Download.jpg); opacity: 0.9; background-repeat: no-repeat;background-size:cover;">
+        <div class="loginbox" style="background-image: url(image/66422216-peaceful-heavenly-background-light-from-heaven-bright-sunlight-from-above-in-blue-sky.jpg ); opacity: 0.9; background-repeat: no-repeat;background-size:cover;">
             <div class="che" style="padding: 50px 15px;">
                 <h3><span style="color: red;">Username: </span><?php echo $_SESSION['username'] ?></h3><br>
                 <button class="btn btn-Large btn-primary btn-block" style="color: black;position:absolute; width: 420px;" id="namebtn" onclick="chgname()"><b>CHANGE NAME</b></button><br><br><br>
