@@ -18,7 +18,7 @@ if (!isset($_SESSION['username'])) {
     <body style="background-image: url(image/30-300619_kimi-no-nawa-wallpaper-iphone-source-your-name.png); background-repeat: no-repeat;background-size:cover;">
         <?php include 'nav.php'; ?>
     <div class="main">
-        <div class="loginbox" style="background-image: url(image/HD-2560x1600-Wallpapers-Backgrounds-Download.jpg); opacity: 0.9; background-repeat: no-repeat;background-size:cover;">
+        <div class="loginbox" style="background-image: url(image/66422216-peaceful-heavenly-background-light-from-heaven-bright-sunlight-from-above-in-blue-sky.jpg ); opacity: 0.9; background-repeat: no-repeat;background-size:cover;">
             <br>
             <img src="image/dribbble.jpg" style="width: 150px; height: 150px; border-radius: 50%; position: absolute; left: 35%;"><br><br><br><br><br><br><br><br>
             <div style="padding-left: 50px; color: black;">
